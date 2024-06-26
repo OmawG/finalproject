@@ -11032,3 +11032,10 @@ header.masthead h1, header.masthead .h1 {
   border-radius: 100px;
   font-size: 24px;
 }
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px; /* Adjust the gap value as needed */
+  font-size: 2rem; /* Adjust the font size as needed */
+}
